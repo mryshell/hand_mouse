@@ -30,7 +30,7 @@ ___
 **همچنین این پکیج هارا باید داشته باشید ( اگر ندارید این کد را کپی و در ترمینال پیست کنید)**
 
 ```bash
-pip install cv2 mediapipe pyautogui numpy math os
+pip install opencv-python mediapipe pyautogui numpy
 ```
 
 ## ۲. اجرا روی سیستم میزبان
