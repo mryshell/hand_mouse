@@ -41,3 +41,7 @@ python mouse_hand.py
 
 ```
 یا روی پروژه دابل کلیک کنید!
+
+امیدوارم لذت ببرید (:
+
+telegram : https://t.me/mry_shell
